@@ -18,6 +18,7 @@ This list is a collection of the best Deno KV modules and resources.
 ## Utilities
 
 - [kv_toolbox](https://github.com/kitsonk/kv-toolbox) - Utilities for working with Deno KV (batchedAtomic, Blob, unique, ...)
+- [kv-utils](https://github.com/cknight/kv-utils) - multiSet, replaceLocalDataWithRemote, wipeKvStore, count, ...
 
 
 ## Fresh plugin
