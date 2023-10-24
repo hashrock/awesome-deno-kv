@@ -25,7 +25,13 @@ This list is a collection of the best Deno KV modules and resources.
 
 ## Fresh plugin
 
-- [deno_kv_oauth](https://github.com/denoland/deno_kv_oauth) High-level OAuth 2.0 powered by Deno KV.
+- [deno_kv_oauth](https://github.com/denoland/deno_kv_oauth) - High-level OAuth 2.0 powered by Deno KV.
+
+
+## KV Connect protocol
+
+- [kv-connect-kit](https://github.com/skymethod/kv-connect-kit) - Minimal Typescript client implementing the KV Connect protocol
+  - [KV connect document](https://github.com/denoland/deno/tree/main/ext/kv#kv-connect)
 
 ## Resources
 
