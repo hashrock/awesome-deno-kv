@@ -6,6 +6,7 @@ This list is a collection of the best Deno KV modules and resources.
 
 - [kview](https://deno.land/x/kview) - A web interface for viewing Deno KV stores.
 - [deno-kv-admin](https://github.com/hashrock/deno-kv-admin) - Deno KV Explorer for VSCode
+- [fresh-kv-tree-view](https://github.com/Octo8080X/fresh-kv-tree-view) - Deno.KV Tree Viewer on Fresh
 
 
 ## Wrapper / ORM
