@@ -37,3 +37,7 @@ This list is a collection of the best Deno KV modules and resources.
 
 - [Deno blog / Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 - [Deno by example / Deno KV](https://examples.deno.land/kv)
+
+## See also
+
+- [awesome-fresh](https://github.com/uki00a/awesome-fresh)
