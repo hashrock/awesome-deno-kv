@@ -32,6 +32,7 @@ This list is a collection of the best Deno KV modules and resources.
 
 - [kv-connect-kit](https://github.com/skymethod/kv-connect-kit) - Minimal Typescript client implementing the KV Connect protocol
   - [KV connect document](https://github.com/denoland/deno/tree/main/ext/kv#kv-connect)
+- [v8_valueserializer](https://github.com/denoland/v8_valueserializer) - A Rust implementation of V8's ValueSerializer and ValueDeserializer
 
 ## Resources
 
