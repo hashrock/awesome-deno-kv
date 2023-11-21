@@ -34,7 +34,10 @@ This list is a collection of the best Deno KV modules and resources.
   - [KV connect document](https://github.com/denoland/deno/tree/main/ext/kv#kv-connect)
 - [v8_valueserializer](https://github.com/denoland/v8_valueserializer) - A Rust implementation of V8's ValueSerializer and ValueDeserializer
 - [kv-key-codec](https://github.com/nhrones/kv-key-codec) - An encoder and decoder for the Deno-Kv multipart key format (FDB-Tuple)
-- 
+
+## Self hosted
+
+- [denokv](https://github.com/denoland/denokv) - A self-hosted backend for Deno KV
 
 ## Resources
 
