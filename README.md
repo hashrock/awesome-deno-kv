@@ -43,6 +43,7 @@ This list is a collection of the best Deno KV modules and resources.
 
 - [Deno blog / Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 - [Deno by example / Deno KV](https://examples.deno.land/kv)
+- [A Comprehensive Guide to Deno KV - Craig's Deno Diary](https://deno-blog.com/A_Comprehensive_Guide_to_Deno_KV.2023-06-30)
 
 ## See also
 
