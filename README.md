@@ -20,7 +20,7 @@ This list is a collection of the best Deno KV modules and resources.
 
 ## Queue
 
-- [Done](https://github.com/dnl-fm/done-light) - A straightforward message queue solution
+- [Done](https://github.com/dnl-fm/done) - A straightforward message queue solution
 
 ## Utilities
 
