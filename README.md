@@ -8,6 +8,7 @@ This list is a collection of the best Deno KV modules and resources.
 - [kivi](https://github.com/hashrock/kivi) - Deno KV Explorer for VSCode
 - [fresh-kv-tree-view](https://github.com/Octo8080X/fresh-kv-tree-view) - Deno.KV Tree Viewer on Fresh
 - [Deno KV Insights](https://github.com/cbinzer/deno-kv-insights) - Deno KV Insights is a tool for managing Deno KV database entries
+- [deno-kv-explorer](https://github.com/nathansherburn/deno-kv-explorer) - A simple app for browsing and editing your Deno KV data
 
 
 ## Wrapper / ORM
